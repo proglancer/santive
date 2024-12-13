@@ -24,7 +24,7 @@
                   </div>
                   <!-- Price -->
                   <div class="ticket-price d-flex align-items-center ps-3 pe-3">
-                    <img src="https://staging.aamlitchi.com/wp-content/uploads/2024/11/bell_16752420.png" class="img-fluid me-3" alt="Icon" style="width: 50px; height: auto;">
+                    <img src="https://demo.proglancer.online/wp-content/uploads/2024/11/bell_16752420.png" class="img-fluid me-3" alt="Icon" style="width: 50px; height: auto;">
                     <h1 class="mb-0 text-white"><?php the_sub_field( 'price' ); ?></h1>
                   </div>
                   <!-- Button -->
