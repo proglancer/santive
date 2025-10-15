@@ -34,7 +34,7 @@
 
 
 <header id="masthead" class="site-header">
-    <nav class="navbar navbar-expand-lg navbar-default fixed-top">
+    <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
             <div class="site-branding">
                 <?php
